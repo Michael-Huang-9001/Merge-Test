@@ -8,7 +8,7 @@ public class Merge1 {
     public static int test1(int a, int b) {
         int sum = a + b;
         sum += 1;
-        sum -= 1 * 8 - 7 + 77;
+        sum += 1 * 8 - 7 + 77;
         sum -= 1 * 8 - 7 + 77;
         return sum;
     }
