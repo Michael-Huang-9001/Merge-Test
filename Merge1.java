@@ -10,5 +10,5 @@ public class Merge1 {
         sum += 1;
         sum -= 1;
         return sum;
-    }git pull
+    }
 }
