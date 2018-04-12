@@ -7,11 +7,8 @@ public class Merge1 {
 
     public static int test1(int a, int b) {
         int sum = a + b;
+        sum += 1;
+        sum -= 1;
         return sum;
-    }
-
-    public static int test2(int c, int d) {
-        int product = c * d;
-        return product;
-    }
+    }git pull
 }
